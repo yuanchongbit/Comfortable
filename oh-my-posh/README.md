@@ -1,4 +1,5 @@
-# Usage
+# Usage   
+[documentation](https://ohmyposh.dev/)
 ## WSL
 ###  Ubuntu  
 Move `yc.omp.json` to `HOME` folder, then add the following to `~/.bashrc`    
